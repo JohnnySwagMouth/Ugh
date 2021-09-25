@@ -1,0 +1,48 @@
+[21:30:08] [INFO] Changing <org.yaml.snakeyaml.nodes.ScalarNode (tag=tag:yaml.org,2002:null, value=~)> of type class java.lang.String to the a default value
+[21:30:08] [INFO] Changing <org.yaml.snakeyaml.nodes.ScalarNode (tag=tag:yaml.org,2002:null, value=~)> of type class java.lang.String to the a default value
+[21:30:08] [INFO] Changing <org.yaml.snakeyaml.nodes.ScalarNode (tag=tag:yaml.org,2002:null, value=~)> of type class java.lang.String to the a default value
+[21:30:08] [INFO] Changing <org.yaml.snakeyaml.nodes.ScalarNode (tag=tag:yaml.org,2002:null, value=~)> of type class java.lang.String to the a default value
+[21:30:08] [INFO] ConfigFile: ConfigFile(_specver=2, modpack=ModpackConfig(name=All the Mods 6, description=Kitchen sink with a twist by WhattheDrunk and the ATMteam), install=InstallConfig(mcVersion=1.16.5, loaderVersion=, installerUrl=http://files.minecraftforge.net/maven/net/minecraftforge/forge/{{@mcversion@}}-{{@loaderversion@}}/forge-{{@mcversion@}}-{{@loaderversion@}}-installer.jar, installerArguments=[--installServer], modpackUrl=https://media.forgecdn.net/files/3459/526/All+the+Mods+6-1.8.3.zip, modpackFormat=curse, formatSpecific={ignoreProject=[263420, 317780, 232131, 231275, 367706, 261725, 243863, 305373, 325492, 296468, 308240, 362791, 291788, 326950, 237701, 391382, 358191, 271740, 428199, 431430, 240630]}, baseInstallPath=, ignoreFiles=[mods/Overrides.txt, mods/optifine*.jar, mods/optiforge*.jar, resources/**, packmenu/**, openloader/resources/**], additionalFiles=[], localFiles=[], checkFolder=true, installLoader=true, spongeBootstrapper=https://github.com/simon816/SpongeBootstrap/releases/download/v0.7.1/SpongeBootstrap-0.7.1.jar), launch=LaunchSettings(spongefix=false, ramDisk=false, checkOffline=false, maxRam=5G, startFile=forge-{{@mcversion@}}-{{@loaderversion@}}.jar, javaArgs=[-XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxGCPauseMillis=200, -XX:+UnlockExperimentalVMOptions, -XX:+DisableExplicitGC, -XX:+AlwaysPreTouch, -XX:G1NewSizePercent=30, -XX:G1MaxNewSizePercent=40, -XX:G1HeapRegionSize=8M, -XX:G1ReservePercent=20, -XX:G1HeapWastePercent=5, -XX:G1MixedGCCountTarget=4, -XX:InitiatingHeapOccupancyPercent=15, -XX:G1MixedGCLiveThresholdPercent=90, -XX:G1RSetUpdatingPauseTimePercent=5, -XX:SurvivorRatio=32, -XX:+PerfDisableSharedMem, -XX:MaxTenuringThreshold=1, -Dusing.aikars.flags=https://mcflags.emc.gs, -Daikars.new.flags=true, -Dfml.readTimeout=90, -Dfml.queryResult=confirm], autoRestart=true, crashLimit=10, crashTimer=60min, preJavaArgs=, forcedJavaPath=))
+[21:30:08] [INFO] LockFile: LockFile(loaderInstalled=true, packInstalled=true, loaderVersion=36.2.4, mcVersion=1.16.5, packUrl=https://media.forgecdn.net/files/3459/526/All+the+Mods+6-1.8.3.zip, spongeBootstrapper=NONE)
+[21:30:08] [INFO] :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[21:30:08] [INFO]    Minecraft ServerStarter install/launcher jar
+[21:30:08] [INFO]    (Created by BloodWorkXGaming & Yoosk with the help of "Team ATM")
+[21:30:08] [INFO] :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[21:30:08] [INFO] 
+[21:30:08] [INFO]    This jar will launch a Minecraft Forge/Fabric Modded server
+[21:30:08] [INFO] 
+[21:30:08] [INFO]    Github:    https://github.com/BloodyMods/ServerStarter
+[21:30:08] [INFO]    Github:    https://github.com/Yoosk/ServerStarter
+[21:30:08] [INFO]    Discord:   https://discord.gg/K5FBPYa
+[21:30:08] [INFO] 
+[21:30:08] [INFO] You are playing All the Mods 6
+[21:30:08] [INFO] Starting to install/launch the server, lean back!
+[21:30:08] [INFO] :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[21:30:08] [INFO] 
+[21:30:08] [INFO] Pinging 8.8.8.8.
+[21:30:08] [INFO] Reached 8.8.8.8: true
+[21:30:08] [INFO] Pinging 1.0.0.1.
+[21:30:08] [INFO] Reached 1.0.0.1: true
+[21:30:08] [INFO] Reached 2 out of 2 IPs.
+[21:30:08] [INFO] Server is already installed to correct version, to force install delete the serverstarter.lock File.
+[21:30:08] [INFO] Using arguments: [java, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxGCPauseMillis=200, -XX:+UnlockExperimentalVMOptions, -XX:+DisableExplicitGC, -XX:+AlwaysPreTouch, -XX:G1NewSizePercent=30, -XX:G1MaxNewSizePercent=40, -XX:G1HeapRegionSize=8M, -XX:G1ReservePercent=20, -XX:G1HeapWastePercent=5, -XX:G1MixedGCCountTarget=4, -XX:InitiatingHeapOccupancyPercent=15, -XX:G1MixedGCLiveThresholdPercent=90, -XX:G1RSetUpdatingPauseTimePercent=5, -XX:SurvivorRatio=32, -XX:+PerfDisableSharedMem, -XX:MaxTenuringThreshold=1, -Dusing.aikars.flags=https://mcflags.emc.gs, -Daikars.new.flags=true, -Dfml.readTimeout=90, -Dfml.queryResult=confirm, -Xmx5G, -Xms2G, -jar, C:\Users\ZAC-GAMER\Desktop\SIMPLE-SERVER-FILES-1.8.3\forge-1.16.5-36.2.4.jar, nogui]
+[21:30:08] [INFO] Starting Loader, output incoming
+[21:30:08] [INFO] For output of this check the server log
+[21:30:11] [INFO] Server has been stopped, it has started 1 times in 60min
+[21:30:11] [INFO] Restarting server in 10 seconds, press ctrl+c to stop
+[21:30:21] [INFO] Using arguments: [java, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxGCPauseMillis=200, -XX:+UnlockExperimentalVMOptions, -XX:+DisableExplicitGC, -XX:+AlwaysPreTouch, -XX:G1NewSizePercent=30, -XX:G1MaxNewSizePercent=40, -XX:G1HeapRegionSize=8M, -XX:G1ReservePercent=20, -XX:G1HeapWastePercent=5, -XX:G1MixedGCCountTarget=4, -XX:InitiatingHeapOccupancyPercent=15, -XX:G1MixedGCLiveThresholdPercent=90, -XX:G1RSetUpdatingPauseTimePercent=5, -XX:SurvivorRatio=32, -XX:+PerfDisableSharedMem, -XX:MaxTenuringThreshold=1, -Dusing.aikars.flags=https://mcflags.emc.gs, -Daikars.new.flags=true, -Dfml.readTimeout=90, -Dfml.queryResult=confirm, -Xmx5G, -Xms2G, -jar, C:\Users\ZAC-GAMER\Desktop\SIMPLE-SERVER-FILES-1.8.3\forge-1.16.5-36.2.4.jar, nogui]
+[21:30:21] [INFO] Starting Loader, output incoming
+[21:30:21] [INFO] For output of this check the server log
+[21:30:23] [INFO] Server has been stopped, it has started 2 times in 60min
+[21:30:23] [INFO] Restarting server in 10 seconds, press ctrl+c to stop
+[21:30:33] [INFO] Using arguments: [java, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxGCPauseMillis=200, -XX:+UnlockExperimentalVMOptions, -XX:+DisableExplicitGC, -XX:+AlwaysPreTouch, -XX:G1NewSizePercent=30, -XX:G1MaxNewSizePercent=40, -XX:G1HeapRegionSize=8M, -XX:G1ReservePercent=20, -XX:G1HeapWastePercent=5, -XX:G1MixedGCCountTarget=4, -XX:InitiatingHeapOccupancyPercent=15, -XX:G1MixedGCLiveThresholdPercent=90, -XX:G1RSetUpdatingPauseTimePercent=5, -XX:SurvivorRatio=32, -XX:+PerfDisableSharedMem, -XX:MaxTenuringThreshold=1, -Dusing.aikars.flags=https://mcflags.emc.gs, -Daikars.new.flags=true, -Dfml.readTimeout=90, -Dfml.queryResult=confirm, -Xmx5G, -Xms2G, -jar, C:\Users\ZAC-GAMER\Desktop\SIMPLE-SERVER-FILES-1.8.3\forge-1.16.5-36.2.4.jar, nogui]
+[21:30:33] [INFO] Starting Loader, output incoming
+[21:30:33] [INFO] For output of this check the server log
+[21:30:36] [INFO] Server has been stopped, it has started 3 times in 60min
+[21:30:36] [INFO] Restarting server in 10 seconds, press ctrl+c to stop
+[21:30:46] [INFO] Using arguments: [java, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxGCPauseMillis=200, -XX:+UnlockExperimentalVMOptions, -XX:+DisableExplicitGC, -XX:+AlwaysPreTouch, -XX:G1NewSizePercent=30, -XX:G1MaxNewSizePercent=40, -XX:G1HeapRegionSize=8M, -XX:G1ReservePercent=20, -XX:G1HeapWastePercent=5, -XX:G1MixedGCCountTarget=4, -XX:InitiatingHeapOccupancyPercent=15, -XX:G1MixedGCLiveThresholdPercent=90, -XX:G1RSetUpdatingPauseTimePercent=5, -XX:SurvivorRatio=32, -XX:+PerfDisableSharedMem, -XX:MaxTenuringThreshold=1, -Dusing.aikars.flags=https://mcflags.emc.gs, -Daikars.new.flags=true, -Dfml.readTimeout=90, -Dfml.queryResult=confirm, -Xmx5G, -Xms2G, -jar, C:\Users\ZAC-GAMER\Desktop\SIMPLE-SERVER-FILES-1.8.3\forge-1.16.5-36.2.4.jar, nogui]
+[21:30:46] [INFO] Starting Loader, output incoming
+[21:30:46] [INFO] For output of this check the server log
+[21:30:48] [INFO] Server has been stopped, it has started 4 times in 60min
+[21:30:48] [INFO] Restarting server in 10 seconds, press ctrl+c to stop
+[21:30:58] [INFO] Using arguments: [java, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxGCPauseMillis
